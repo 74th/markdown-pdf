@@ -1,0 +1,24 @@
+{
+  "name": "markdown-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "highlight.js": "^9.15.8",
+    "hummus-recipe": "^1.8.12",
+    "markdown-it": "^8.4.2",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-named-headers": "0.0.4",
+    "mustache": "^3.0.1",
+    "pdf-merge": "^1.2.0",
+    "pdf2json": "^1.1.8",
+    "puppeteer": "^1.18.1",
+    "typescript": "^3.5.2"
+  }
+}
