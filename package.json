@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "highlight.js": "^9.15.8",
+    "highlight.js": "^10.4.1",
     "hummus-recipe": "^1.8.12",
     "markdown-it": "^8.4.2",
     "markdown-it-container": "^2.0.0",
